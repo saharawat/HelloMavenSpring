@@ -20,6 +20,10 @@ padding:5px;
 .main-section{
 text-align:center;
 margin-top:50px;
+background:#000;
+padding:50px;
+margin-left:500px;
+margin-right:500px;
 }
 button{
 padding:4px;
