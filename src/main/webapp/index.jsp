@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>Hello Java Program</h1>
+<h2>This is a good program</h2>
 </body>
 </html>
