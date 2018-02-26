@@ -24,6 +24,7 @@ background:#000;
 padding:50px;
 margin-left:500px;
 margin-right:500px;
+font-size:24px;
 }
 button{
 padding:4px;
